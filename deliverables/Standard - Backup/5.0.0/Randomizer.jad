@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: Randomizer
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 5077
+MIDlet-1: Randomizer,,
+RIM-COD-Creation-Time: 1288228362
+MIDlet-Jar-URL: Randomizer.jar
+RIM-COD-URL: Randomizer.cod
+RIM-COD-SHA1: 1b 1d 37 59 52 a0 45 53 e7 34 08 27 67 07 63 08 30 46 05 ad
+RIM-COD-Size: 2336
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: Randomizer
+MIDlet-Vendor: Christian Rubiales
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Randomizer">
+		<name >
+			Randomizer
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Christian Rubiales
+		</vendor>
+		<copyright >
+			Copyright (c) 2010 Christian Rubiales
+		</copyright>
+		<fileset Java="1.5">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Randomizer.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
